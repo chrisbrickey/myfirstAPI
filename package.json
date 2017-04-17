@@ -11,9 +11,9 @@
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
-  }
+  },
 
   "scripts":  {
     "zip": "zip -r../myNewApi.zip*"
-  }
+  },
 }
